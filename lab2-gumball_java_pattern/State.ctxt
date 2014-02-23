@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turnCrank()
+comment1.params=
+comment1.target=void\ dispense()
+comment2.params=
+comment2.target=void\ ejectCoin()
+comment3.params=value
+comment3.target=void\ insertCoin(int)
+numComments=4
